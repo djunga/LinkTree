@@ -1,0 +1,23 @@
+VidVerse
+
+This is my first Chrome extension.
+
+It works by giving it a video file containing a clip of a video and it will search the
+internet (through Google) to find that video in full. In other words, it is a reverse video searcher.
+
+Machine learning will be used to test the accuracy of the extension.
+
+
+
+7/29:  I don't know what to do. I don't know how to get the DOM of a website
+and make into a tree. I thought I had to make the DOM into a JSON object, then
+send that to a D3 method that would turn it into a tree.
+But I don't understand the source code examples I found online. Furthermore,
+I don't know about the legality of using that code for myself.
+
+
+7/30:  Get the HTML page. Put the javascript that makes the tree in the
+HTML page in a script tag. Display the HTML page.
+
+Start by getting the HTML page and then adding a big letter A to it.
+Just to show that you can get the page and display something new.
